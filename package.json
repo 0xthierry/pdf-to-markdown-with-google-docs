@@ -1,0 +1,22 @@
+{
+  "name": "google-drive-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.7.1",
+    "@types/gapi": "^0.0.47",
+    "@types/node": "^22.6.1",
+    "eslint": "^9.10.0",
+    "google-auth-library": "^9.14.1",
+    "googleapis": "^144.0.0",
+    "tsup": "^8.3.0",
+    "tsx": "^4.19.1"
+  }
+}
